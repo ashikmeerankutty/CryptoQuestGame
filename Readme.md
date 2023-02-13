@@ -12,11 +12,7 @@
   
   <p align="center"><a href="">Watch Demo Video on YouTube</a></p>
 
-# ARCHITECTURE
-
-<!-- ![image](./screenshots/flow.jpg) -->
-
-# FEATURES
+## Features
 
 CryptoQuest is a fun and exciting Play To Earn game that combines the nostalgia of classic 8-bit role-playing games with modern, streamlined gameplay. With our game, players have the opportunity to earn and own what they play for, as all game data is securely stored on the Goerli Blockchain. We aim to provide a sense of accomplishment and ownership to all of our players by immersing them in a world of adventure, where they can collect treasure, defeat monsters, and unlock unique NFT rewards.
 
@@ -30,6 +26,8 @@ Built with Thirdweb and powered by the Goerli Blockchain, CryptoQuest offers a u
 🎮 CryptoQuest DAO to reward game-artists assets through on chain voting using $CQT token.
 
 ## Technologies Used
+
+![image](./screenshots/tech.png)
 
 **Unity Editor** is used to build the game, engine and logic.
 
