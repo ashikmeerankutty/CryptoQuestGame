@@ -7,7 +7,10 @@
   <h6>Built at Ready Player 3 Hackathon by Thirdweb</h6>
   </p>
 
-  <p>Play CryptoQuest game online at <a href="https://gateway.ipfscdn.io/ipfs/QmWG464ZH4iM4juDU59qFgeUxj3YYp5Hjn6ZCdk9iDnMLG">here</a></p>
+  <p>Play CryptoQuest game online at <a href="https://gateway.ipfscdn.io/ipfs/QmdzYYgYHWuxjhhitw1C4thtEFuYYTntMaMUaPAgwocRH8/">here</a></p>
+
+<p>If the above link doesn't work play it here <a href="https://cryptoquest.surge.sh/">here</a></p>
+
   <p>Visit CryptoQuest store at <a href="https://thirdweb.com/goerli/0x9d8b644b5F56cA24e916872e97816Da329662Bbf/listings">here</a></p>
   
   <p align="center"><a href="https://www.youtube.com/watch?v=TPbk4xOZLSo">Watch Demo Video on YouTube</a></p>
@@ -82,6 +85,36 @@ The Edition contract is best used when you want to release many NFTs based on th
 ```
 Open the game in Unity Editor
 ```
+
+## How to play
+
+- Use the "WASD" keys to move
+- Use the mouse to aim
+- Use the "B" key to enter the weapon buy menu
+- Left mouse button to fire
+- Hold down fire to precharge some weapons like the laser before firing
+- Hold down the right mouse button while moving for an evasive roll
+  - You won't take damage while rolling
+- Use the "Tab key" to show the dungeon overview map
+  - Click the rooms you've already visited to quickly navigate
+- To reload the selected weapon
+  - Left mouse click when the weapon clip is empty
+  - Or press the "R" key anytime
+- Use the "E" key to use items
+  - Tables can be flipped to provide cover
+  - Chests can be opened and items taken
+- Chest items
+  - Hearts replenish your health
+  - Ammo tops up the currently selected weapon
+- Use the middle mouse wheel to scroll through your weapons
+- Weapons can also be selected using the number keys (1, 2, 3, 4, 5, 6, 7, 8, 9, 0)
+- The currently selected weapon can be moved to weapon position 1 by pressing the "-" key
+- Use the "Esc key" for the pause menu
+  - Adjust the sound settings
+  - Quit to the main menu
+- Make your way through the dungeon clearing rooms of enemies
+- Defeat the boss if all rooms have been cleared
+- Good luck!
 
 ### Gameplay
 
