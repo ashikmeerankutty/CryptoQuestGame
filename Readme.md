@@ -19,10 +19,15 @@ CryptoQuest is a fun and exciting Play To Earn game that combines the nostalgia 
 Built with Thirdweb and powered by the Goerli Blockchain, CryptoQuest offers a unique and rewarding gaming experience that is sure to captivate and engage players of all levels."
 
 🎮 Secure authentication with Coinbase / Metamask wallet.
+
 🎮 In Game Store for Buying weapons.
+
 🎮 $CQT (CryptoQuest game token) Token Rewards.
+
 🎮 Thirdweb Game storefront for buying game weapons and using them as game assets as NFT. Every character is Rare and has unique abilities.\*\*
+
 🎮 Deployed on IPFS powered by Thirdweb.
+
 🎮 CryptoQuest DAO to reward game-artists assets through on chain voting using $CQT token.
 
 ## Technologies Used
@@ -80,6 +85,8 @@ Open the game in Unity Editor
 
 ### Gameplay
 
+<p align="center">
+
 <a href="/">
     <img src="./screenshots/2.png" alt="Logo" width="480">
   </a>
@@ -120,3 +127,4 @@ Open the game in Unity Editor
   <a href="/">
     <img src="./screenshots/14.png" alt="Logo" width="480">
   </a>
+  </p>
