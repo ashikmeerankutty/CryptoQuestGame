@@ -12,6 +12,8 @@
 <p>If the above link doesn't work play it here <a href="https://cryptoquest.surge.sh/">here</a></p>
 
   <p>Visit CryptoQuest store at <a href="https://thirdweb.com/goerli/0x9d8b644b5F56cA24e916872e97816Da329662Bbf/listings">here</a></p>
+
+  <p>View Dev.to Post <a href="https://dev.to/ashikmeerankutty/cryptoquest-pixel-dungeon-rpg-with-nft-marketplace-game-tokens-and-real-rewards-2j6j">here</a></p>
   
   <p align="center"><a href="https://www.youtube.com/watch?v=TPbk4xOZLSo">Watch Demo Video on YouTube</a></p>
 
