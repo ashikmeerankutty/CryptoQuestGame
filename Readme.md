@@ -80,28 +80,43 @@ Open the game in Unity Editor
 
 ### Gameplay
 
-![image](./screenshots/2.png)
+<a href="/">
+    <img src="./screenshots/2.png" alt="Logo" width="480">
+  </a>
 
-![image](./screenshots/1.png)
-
-![image](./screenshots/3.png)
-
-![image](./screenshots/4.png)
-
-![image](./screenshots/5.png)
-
-![image](./screenshots/6.png)
-
-![image](./screenshots/8.png)
-
-![image](./screenshots/9.png)
-
-![image](./screenshots/15.png)
-
-![image](./screenshots/10.png)
-
-![image](./screenshots/11.png)
-
-![image](./screenshots/12.png)
-
-![image](./screenshots/14.png)
+  <a href="/">
+    <img src="./screenshots/1.png" alt="Logo" width="480">
+  </a>
+  <a href="/">
+    <img src="./screenshots/3.png" alt="Logo" width="480">
+  </a>
+  <a href="/">
+    <img src="./screenshots/4.png" alt="Logo" width="480">
+  </a>
+  <a href="/">
+    <img src="./screenshots/5.png" alt="Logo" width="480">
+  </a>
+  <a href="/">
+    <img src="./screenshots/6.png" alt="Logo" width="480">
+  </a>
+  <a href="/">
+    <img src="./screenshots/8.png" alt="Logo" width="480">
+  </a>
+  <a href="/">
+    <img src="./screenshots/9.png" alt="Logo" width="480">
+  </a>
+  <a href="/">
+    <img src="./screenshots/15.png" alt="Logo" width="480">
+  </a>
+  <a href="/">
+    <img src="./screenshots/10.png" alt="Logo" width="480">
+  </a>
+  <a href="/">
+    <img src="./screenshots/11.png" alt="Logo" width="480">
+  </a>
+  <a href="/">
+    <img src="./screenshots/12.png" alt="Logo" width="480">
+  </a>
+  <a href="/">
+    <img src="./screenshots/14.png" alt="Logo" width="480">
+  </a>
