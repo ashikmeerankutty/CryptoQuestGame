@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 64a00a35ce5bbe34da0995589e385360, type: 3}
+  m_Name: WeaponDetails_GM6LynxSniper
+  m_EditorClassIdentifier: 
+  weaponName: GM6 Lynx Sniper
+  weaponSprite: {fileID: 21300000, guid: 7e70ae1621ea16746be436ae77e38ce9, type: 3}
+  weaponShootPosition: {x: 1.678, y: 0.234, z: 0}
+  weaponCurrentAmmo: {fileID: 11400000, guid: 1121642174cfefd40a0bae3283bf6223, type: 2}
+  weaponShootEffect: {fileID: 11400000, guid: 7425fc35fa32ef54da3787ac151f2f92, type: 2}
+  weaponFiringSoundEffect: {fileID: 11400000, guid: b72c1f06f09f2de478af6e31b9f5e304, type: 2}
+  weaponReloadingSoundEffect: {fileID: 11400000, guid: 421216c517cdc0e469adf8c2b6be0964, type: 2}
+  hasInfiniteAmmo: 0
+  hasInfiniteClipCapacity: 0
+  weaponClipAmmoCapacity: 4
+  weaponAmmoCapacity: 30
+  weaponFireRate: 0.4
+  weaponPrechargeTime: 0
+  weaponReloadTime: 2

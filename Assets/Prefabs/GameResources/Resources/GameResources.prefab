@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &8468320683319507253
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6885369089603951018}
+  - component: {fileID: 3798288293769588518}
+  m_Layer: 0
+  m_Name: GameResources
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6885369089603951018
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8468320683319507253}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3798288293769588518
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8468320683319507253}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6149b3f8bc18b29468cee9bf98dcc0ad, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  roomNodeTypeList: {fileID: 11400000, guid: 3f572f9faabcd334f8fe9dbe91dacb9b, type: 2}
+  playerSelectionPrefab: {fileID: 4228832101867735334, guid: 431e17a939b7c224eb75a4d08e830a32, type: 3}
+  playerDetailsList:
+  - {fileID: 11400000, guid: 49f4d94b8bc08db42b564667f5d40218, type: 2}
+  - {fileID: 11400000, guid: a4b8a6336ad43a747b30b5dffb3b9281, type: 2}
+  - {fileID: 11400000, guid: 8162539e907ab314baacaa00e527f408, type: 2}
+  currentPlayer: {fileID: 11400000, guid: b5002c4999707a04980cdb39c57f3891, type: 2}
+  musicMasterMixerGroup: {fileID: -7206380732494497733, guid: 2ac509b551addfb48950fbdc0d9cefb4, type: 2}
+  mainMenuMusic: {fileID: 11400000, guid: 486363a203924d545a549159c8d72478, type: 2}
+  musicOnFullSnapshot: {fileID: 24500006, guid: 2ac509b551addfb48950fbdc0d9cefb4, type: 2}
+  musicLowSnapshot: {fileID: 8893122114324796974, guid: 2ac509b551addfb48950fbdc0d9cefb4, type: 2}
+  musicOffSnapshot: {fileID: -3084740370723268673, guid: 2ac509b551addfb48950fbdc0d9cefb4, type: 2}
+  soundsMasterMixerGroup: {fileID: -4734643798044506327, guid: 2ac509b551addfb48950fbdc0d9cefb4, type: 2}
+  doorOpenCloseSoundEffect: {fileID: 11400000, guid: 1e92062be743afc43a1a407a81c5788b, type: 2}
+  tableFlip: {fileID: 11400000, guid: 790608e3439de71449803f2eba42bee6, type: 2}
+  chestOpen: {fileID: 11400000, guid: 898b76ec0db54314d901f002b0d8415a, type: 2}
+  healthPickup: {fileID: 11400000, guid: 93fc86f5c4213bf4390af669f4f9ec6f, type: 2}
+  weaponPickup: {fileID: 11400000, guid: 5fffce0349204ef41bcd7741f1d5806a, type: 2}
+  ammoPickup: {fileID: 11400000, guid: 8e26fe16d9fa5cf41b8a4ef5e996d809, type: 2}
+  dimmedMaterial: {fileID: 2100000, guid: fd5ae752e16da36428c7ae98c49dc19e, type: 2}
+  litMaterial: {fileID: 2100000, guid: a97c105638bdf8b4a8650670310a4cd3, type: 2}
+  variableLitShader: {fileID: -6465566751694194690, guid: 280c5b95551fe3341838c67974b3c9b8, type: 3}
+  materializeShader: {fileID: -6465566751694194690, guid: 5fec8f8e6ea244648a3c6ede24a56288, type: 3}
+  enemyUnwalkableCollisionTilesArray:
+  - {fileID: 11400000, guid: 37e2c9e0227bfbc409cd632b9bd0c81f, type: 2}
+  - {fileID: 11400000, guid: 98f177f8276c38b429705e6720c48672, type: 2}
+  preferredEnemyPathTile: {fileID: 11400000, guid: 3ce5fb260af53d24887b55c3d50041e2, type: 2}
+  heartPrefab: {fileID: 1370537621288925077, guid: a551809fffaa35649abf38f79817e552, type: 3}
+  ammoIconPrefab: {fileID: 5481656491773120187, guid: c3e5e34b6afafd9408e3703b9128ba4f, type: 3}
+  scorePrefab: {fileID: 3200602702114612697, guid: cd07250332324474494f156b214f5e25, type: 3}
+  chestItemPrefab: {fileID: 1929075895742120396, guid: 90529294a4d3e1f449b3389a6aa6e92e, type: 3}
+  heartIcon: {fileID: 21300000, guid: 93356131eec0f44458223985928ac6e3, type: 3}
+  bulletIcon: {fileID: 21300000, guid: a2482871b46d396438236c07b6402283, type: 3}
+  minimapSkullPrefab: {fileID: 7591362043753679211, guid: ba31a0e68ba8bc54f94d73a8ae10c6d9, type: 3}

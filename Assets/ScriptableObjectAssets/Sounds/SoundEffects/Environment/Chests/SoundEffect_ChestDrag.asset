@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ad5c1cce80175cd4a81871e060bb984d, type: 3}
+  m_Name: SoundEffect_ChestDrag
+  m_EditorClassIdentifier: 
+  soundEffectName: Chest Drag
+  soundPrefab: {fileID: 5492745614361693508, guid: 2e23059ee267e5d42bbb7a0487404eb3, type: 3}
+  soundEffectClip: {fileID: 8300000, guid: 585f8bb677a3cb148baf7114c459c8a1, type: 3}
+  soundEffectPitchRandomVariationMin: 0.8
+  soundEffectPitchRandomVariationMax: 1
+  soundEffectVolume: 0.6
