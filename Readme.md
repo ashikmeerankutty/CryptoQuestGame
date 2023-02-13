@@ -7,7 +7,7 @@
   <h6>Built at Ready Player 3 Hackathon by Thirdweb</h6>
   </p>
 
-  <p>Play CryptoQuest game online at <a href="https://gateway.ipfscdn.io/ipfs/QmdzYYgYHWuxjhhitw1C4thtEFuYYTntMaMUaPAgwocRH8/">here</a></p>
+  <p>Play CryptoQuest game online at <a href="https://gateway.ipfscdn.io/ipfs/QmcW5SAPHRXrcjpjxuGAHhcb4sKgkcqBhRwESe2NtxBNyL/">here</a></p>
 
 <p>If the above link doesn't work play it here <a href="https://cryptoquest.surge.sh/">here</a></p>
 
