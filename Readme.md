@@ -4,7 +4,6 @@
   <a href="/">
     <img src="./screenshots/2.png" alt="Logo" width="480" height="240">
   </a>
-  <h6>Built at Ready Player 3 Hackathon by Thirdweb</h6>
   </p>
 
   <p>Play CryptoQuest game online at <a href="https://gateway.ipfscdn.io/ipfs/QmcW5SAPHRXrcjpjxuGAHhcb4sKgkcqBhRwESe2NtxBNyL/">here</a></p>
